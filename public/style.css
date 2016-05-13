@@ -608,11 +608,11 @@ scroll {  0% {
 
 
 .getit_area{
-  background: #000;
+  background: #fff;
 }
 
 .getit_area h1{
-    color: #ffffff;
+    color: #000;
 }
 
 .getit_section{
