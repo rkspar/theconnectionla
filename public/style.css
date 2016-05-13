@@ -169,6 +169,9 @@ Image credits: unsplash.com
 .hero h2 span{
   color: #1973B6;
 }
+.hero h1 span{
+  color: #1973B6;
+}
 
 .hero h3{
     color: #fff;
@@ -549,7 +552,7 @@ scroll {  0% {
 }
 
 .work_section h1 span{
-  color: #C0C0C0;
+  color: #1973B6;
 }
 
 .bs-example{
@@ -856,7 +859,7 @@ scroll {  0% {
 }
 
 .blog_section h1 span{
-  color: #C0C0C0;
+  color: #1973B6;
 }
 
 .single_blog {
@@ -1033,7 +1036,7 @@ line-height: 45px !important;}
 
 
 .testimonial_section h1 span{
-  color: #C0C0C0;
+  color: #1973B6;
 }
 
 

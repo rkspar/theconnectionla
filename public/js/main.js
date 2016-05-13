@@ -112,26 +112,26 @@
 
         {
 
-          'headline':'HTML & CSS',
+          'headline':'Auto Wrap & Tints',
           'value':8,
           'length':9,
-          'description':'Significant experience and knowlage of HTML(5) and CSS functionality and use.'
+          'description':'Significant experience and knowlage of auto wrapping & tints'
 
         },
         {
 
-          'headline':'JavaScript & jQuery',
+          'headline':'Exotic Auto Repair',
           'value':6,
-          'length':5,
-          'description':'Experience with object-oriented JavaScript. </br> Extended knowlage of DOM manipulation in aiding and extending the UI.'
+          'length':6,
+          'description':'Experience with Exotic & Luxury Cars'
 
         },
         {
 
-          'headline':'Ruby & Python',
-          'value':3,
+          'headline':'Rims & Wheels',
+          'value':5,
           'length':5,
-          'description':'Experience with object-oriented JavaScript. </br> Extended knowlage of DOM manipulation in aiding and extending the UI.'
+          'description':''
 
         }
 
