@@ -232,10 +232,10 @@ Image credits: unsplash.com
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url(img/cover.jpg); 
+  background-image: url(img/cover2.jpg); 
 }
 .fade-carousel .slides .slide-2 {
-  background-image: url(img/cover2.jpg);
+  background-image: url(img/cover.jpg);
 }
 .fade-carousel .slides .slide-3 {
   background-image: url(img/tinst.jpg);
